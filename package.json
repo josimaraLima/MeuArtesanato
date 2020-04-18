@@ -1,0 +1,23 @@
+{
+  "name": "MeuArtesanato-1",
+  "version": "1.0.0",
+  "description": "App de uso pessoal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josimaraLima/MeuArtesanato.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josimaraLima/MeuArtesanato/issues"
+  },
+  "homepage": "https://github.com/josimaraLima/MeuArtesanato#readme",
+  "dependencies": {
+    "sqlite": "^4.0.7"
+  }
+}
